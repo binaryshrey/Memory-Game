@@ -16,7 +16,7 @@ let starsList = document.querySelectorAll(".stars li");
 
 //variables for mat cards
 let matchedCards = document.getElementsByClassName("match");
-let closeIcon = document.querySelector(".close");
+let closeIcon = document.querySelector(".showup");
 let modal = document.getElementById("popup")
 var chosenCards = [];
 
