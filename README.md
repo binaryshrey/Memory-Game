@@ -2,7 +2,7 @@
 Udacity FEND Memory-Game Project
 
 # Getting Started
-- clone the repo on to your system.
+- Follow this [Memory-Game](https://binaryshrey.github.io/Memory-Game/) site or clone the repo on to your system.
 - Extract the .zip file
 - Open index.html in your browser. 
 
