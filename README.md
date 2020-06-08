@@ -1,6 +1,8 @@
 # Memory-Game
 Udacity FEND Memory-Game Project
 
+![Overview](https://raw.githubusercontent.com/binaryshrey/Memory-Game/master/Overview.png)
+
 # Getting Started
 - Follow this [Memory-Game](https://binaryshrey.github.io/Memory-Game/) site or clone the repo on to your system.
 - Extract the .zip file
